@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR?color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Intelligence-PDF-Parsing-OCR/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
@@ -66,7 +66,7 @@ The table below catalogs leading commercial Document Intelligence and PDF parsin
 
 ## 💻 Open-Source GitHub Projects (Ranked by Stars)
 
-The following open-source tools and libraries power state-of-the-art document parsing, local OCR, and PDF processing. They are **sorted in descending order by GitHub Stars**, and each repository includes a badge linking directly to its stargazers:
+The following open-source tools and libraries power state-of-the-art document parsing, local OCR, and PDF processing. They are **sorted in descending order by GitHub_Stars**, and each repository includes a badge linking directly to its stargazers:
 
 1. **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
    *Industrial-grade multilingual OCR and document layout toolkit (`PP-Structure` & `PP-OCRv4`) supporting 80+ languages, table recognition, key information extraction, and ultra-lightweight edge models.*
@@ -174,7 +174,7 @@ Contributions are warmly encouraged! To add or update an entry:
 1. **Fork this repository** to your own GitHub profile.
 2. **Edit `README.md`**:
    - For SaaS platforms: ensure you include the exact pricing structure, free tier/trial limits, and company scale.
-   - For Open-Source projects: follow the star-ranking order, provide an accurate description, and include the social star badge linking to `/stargazers`.
+   - For Open-Source projects: follow the star-ranking order, provide an accurate description, and include the social Stars_Badge linking to `/stargazers`.
 3. **Open a Pull Request** with a concise summary of the additions or updates.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
